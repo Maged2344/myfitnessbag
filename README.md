@@ -43,4 +43,4 @@ Your one-stop shop for **everything muscle, hustle, and hustle tracking**
 ## 🖼 Add Your Logo Here
 
 ```html
-<img src="https://myfitnessbag.com/logo.png" alt="MyFitnessBag Logo" width="180" />
+[<img src="https://myfitnessbag.com/logo.png" alt="MyFitnessBag Logo" width="180" />](https://myfitnessbag.com/wp-content/uploads/2024/01/FINAL-LOGO.png)
